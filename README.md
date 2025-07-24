@@ -5,7 +5,6 @@
 
 
 
-Here are some ideas to get you started:
 Hi, My name is Archa! I am an incoming freshman at Northeastern University from NYC!
 - 🔭 I’m currently working on a website
 - 🌱 I’m currently learning more about coding
