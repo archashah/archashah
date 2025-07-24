@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hi, My name is Archa! I am an incoming freshman at Northeastern University from NYC!
 
 <!--
 **archashah/archashah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+Hi, My name is Archa! I am an incoming freshman at Northeastern University from NYC!
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
